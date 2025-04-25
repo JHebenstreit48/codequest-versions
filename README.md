@@ -8,11 +8,11 @@ It includes both **frontend-only** and **full-stack** versions, implemented usin
 
 ## 🚀 Versions
 
-| Version               | Stack                         | Repository                                         | Live Site                           |
+| Version | Stack | Repository | Live Site |
 |----------------------|-------------------------------|----------------------------------------------------|-------------------------------------|
-| React Frontend Only  | React + TypeScript            | [CodeQuest (React)](https://github.com/JHebenstreit48/CodeQuest) | [web-dev-codequest.netlify.app](https://web-dev-codequest.netlify.app) |
-| Angular Full Stack   | Angular + GraphQL + Apollo _(WIP)_ | [Angular Version (coming soon)](#)                  | _(Coming soon)_                     |
-| Vue or Svelte (TBD)  | In planning                   | _(Repo not created yet)_                           | —                                   |
+| React Frontend Only  | React + TypeScript | [CodeQuest (React)](https://github.com/JHebenstreit48/CodeQuest) | [web-dev-codequest.netlify.app](https://web-dev-codequest.netlify.app) |
+| Angular Full Stack   | Angular + GraphQL + Apollo _(WIP)_ | [Angular Version](https://github.com/JHebenstreit48/CodeQuest-Angular) | _(Coming soon)_                     |
+| Vue or Svelte (TBD)  | In planning | _(Repo not created yet)_ | — |
 
 > 📌 Additional versions will be added as I continue experimenting with new stacks and backend integrations.
 
